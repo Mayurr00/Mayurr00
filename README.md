@@ -1,4 +1,4 @@
-<image align="center" width=400 src="https://github.com/Mayurr00/Mayurr00/blob/main/3efcf1e9a5f2c3354714699b321221b4.gif">
+<image align="center" width="400" src="https://github.com/Mayurr00/Mayurr00/blob/main/3efcf1e9a5f2c3354714699b321221b4.gif">
 <h1 align="center">Hi 👋, I'm Mayur Bhore</h1>
 <h3 align="center">A passionate AI/ML enthusiast from India</h3>
 
