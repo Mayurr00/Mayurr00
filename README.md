@@ -1,10 +1,10 @@
-<image align="center" width="1100" src="https://github.com/Mayurr00/Mayurr00/blob/main/3efcf1e9a5f2c3354714699b321221b4.gif">
+![MasterHead]([https://github.com/Baka-Boy/Baka-Boy/blob/main/pixelated.gif](https://github.com/Mayurr00/Mayurr00/blob/main/3efcf1e9a5f2c3354714699b321221b4.gif))
 <h1 align="center">Hi 👋, I'm Mayur Bhore</h1>
 <h3 align="center">A passionate AI/ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur00&label=Profile%20views&color=0e75b6&style=flat" alt="mayur00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayur00" alt="mayur00" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mayur_bhore" target="blank"><img src="https://img.shields.io/twitter/follow/mayur_bhore?logo=twitter&style=for-the-badge" alt="mayur_bhore" /></a> </p>
 
 - 🔭 I’m currently working on **AgroHelp**
 
