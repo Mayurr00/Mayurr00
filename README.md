@@ -29,6 +29,6 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurr00&theme=radical)
-<p>&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurr00&layout=compact&theme=radical)](https://github.com/Mayurr00/Mayurr00)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurr00&layout=compact&theme=radical)](https://github.com/Mayurr00/Mayurr00)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mayurr00&theme=radical)](https://github.com/Mayurr00/Mayurr00)
 
