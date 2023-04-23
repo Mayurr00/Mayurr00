@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur00&show_icons=true&locale=en" alt="mayur00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur00&" alt="mayur00" /></p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurr00&theme=radical)
