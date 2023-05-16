@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mayur_bhore" target="blank"><img src="https://img.shields.io/twitter/follow/mayur_bhore?logo=twitter&style=for-the-badge" alt="mayur_bhore" /></a> </p>
 
-- 🔭 I’m currently working on **AgroHelp**
+<!-- - 🔭 I’m currently working on **AgroHelp** -->
 
 - 📫 How to reach me **mayur.bhore07@gmail.com**
 
