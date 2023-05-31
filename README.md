@@ -30,4 +30,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurr00&theme=radical)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurr00&layout=compact&theme=radical)](https://github.com/Mayurr00/Mayurr00)<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mayurr00&theme=radical)](https://github.com/Mayurr00/Mayurr00)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mayur00&theme=onedark)](https://github.com/Mayurr00/Mayurr00)
 
